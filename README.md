@@ -3,5 +3,7 @@
 
 ### About me
 <span>
-<a href="kijmanexxx.blogspot.com">
-<img src="https://img.shields.io/badge/Blog-hexcode#FF5722?style=plastic&logo=blogger&logoColor=#FF5722"/>
+  <a href="https://kijmanexxx.blogspot.com">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=plastic&logo=blogger&logoColor=white"/>
+  </a>
+</span>
