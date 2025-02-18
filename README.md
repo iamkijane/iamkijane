@@ -29,7 +29,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-    </div>
+    </div><br><br>
 </div>
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> STATS </h2><br><br>
