@@ -33,5 +33,10 @@
 </div>
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> STATS </h2><br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=kijmane&show_icons=true&theme=dark">
+   <img src="https://github-readme-stats.vercel.app/api?username=kijmane&bg_color=180,00000000,f7f7f7&title_color=b33737&text_color=b33737">
 </div>
+
+
+
+
+   
