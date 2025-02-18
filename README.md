@@ -1,10 +1,10 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=egg&color=Black&height=210">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Expect%20the%20unexpected!&fontSize=60&color=0:6E1D0C,100&fontColor=D7D7D7">
-</div><br><br><br>
+</div><br><br><br><br>
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> TECH STACKS </h2> 
-    <br> 
+    <br><br><br><br>
     <div>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
         <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
