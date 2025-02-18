@@ -4,7 +4,7 @@
 </div><br><br><br><br>
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> TECH STACKS </h2> 
-    <br><br><br><br>
+    <br><br>
     <div>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
         <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
@@ -32,6 +32,6 @@
     </div>
 </div>
 <div align="center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> STATS </h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> STATS </h2><br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=kijmane&show_icons=true&theme=dark">
 </div>
