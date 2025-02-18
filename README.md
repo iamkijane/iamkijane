@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> TECH STACKS </h2> 
     <br> 
     <div>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
@@ -32,12 +32,7 @@
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
     </div>
 </div>
-
-<div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> 
-</div>
-
 <div align="center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> STATS </h2>
     <img src="https://github-readme-stats.vercel.app/api?username=kijmane&show_icons=true&theme=dark">
 </div>
